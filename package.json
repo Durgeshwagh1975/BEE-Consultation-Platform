@@ -1,0 +1,14 @@
+{
+  "name": "bee-consultation-platform",
+  "private": true,
+  "workspaces": [
+    "server",
+    "mobile"
+  ],
+  "scripts": {
+    "test": "npm --workspace server test",
+    "seed": "npm --workspace server run seed",
+    "server": "npm --workspace server start",
+    "mobile": "npm --workspace mobile start"
+  }
+}

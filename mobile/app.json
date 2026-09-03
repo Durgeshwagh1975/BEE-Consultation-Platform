@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "BEE Consult",
+    "slug": "bee-consult",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F7F8F5"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F7F8F5"
+      }
+    }
+  }
+}
